@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EvertonPlasseVolkweis/EvertonPlasseVolkweis/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Socila Media</h2>
 
 ###
